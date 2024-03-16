@@ -1,1 +1,2 @@
 # Plant-Pathology-Detection-Deep-Learning
+Objective:****The primary objective is to develop a deep-learning model that can classify plant diseases based on images. I used the provided training dataset, which consists of images resized to a maximum dimension of 600 pixels while maintaining the aspect ratio. The challenge is to use these images to train models that can accurately classify plant diseases in the test set.
